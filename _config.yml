@@ -74,11 +74,13 @@ skills:
     - Extrusion
     - Melt Flow Index
     - thermosealing (application and characterisation)
+    - Kinetic studies
   - category: Computer Skills
     tools:
     - Microsoft Office (Word, Powerpoint, Excel)
     - Microsoft Teams
     - Outlook
+    - GANTT Charts
     - Python (numpy, pandas, scikit-learn, RDKit)
     - SQL 
   - category: Paints and Pigments
@@ -89,7 +91,9 @@ skills:
     - Misc. caracterisations (syneresis, gel, sedimentation, flow threshold)
   - category: Health & Safety
     tools:
-    - 5S method (Sort, Set in order, Shine, Sustain, Self-Discipline
+    - 5S method (Sort, Set in order, Shine, Sustain, Self-Discipline)
+    - Hazard Analysis Critical Control Point (HACCP)
+    - Health and safety analysis of new methods and protocoles
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{8-digit key}
