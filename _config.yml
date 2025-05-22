@@ -7,17 +7,19 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Siân Tunstall's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Siân TUNSTALL
+headline: R&D Formulation Chemist
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, and welcome to my portfolio!
+
+  I created this webpage to showcase what I can bring to your company as well as my projects and side projects that make me who I am as a formulation chemist.
+  I am not afraid of going above and beyond what is asked for if it can benefit the project and the team (like creating an online portfolio almost from scratch). My curiosity and perseverance help me dive into projects, understand what is needed and plan what my team and I can do to reach our goal.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
