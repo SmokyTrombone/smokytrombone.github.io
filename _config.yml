@@ -52,15 +52,28 @@ skills:
     - Direct and indirect emulsions
     - Microemulsions
     - Designing and respecting specifications
-    - Industrial mixing (
+    - Industrial and lab scale mixing
+  - category: General Caracterisation
+    tools:
+    - Rheology (viscoelastic spectrum, Brookfield)
+    - Mechanical tests (traction, friction, hardness)
+    - Sensory analysis (touch, smell and taste)
   - category: Analytical Chemistry
     tools:
     - HPLC
     - GPC
     - DSC
     - TGA
+    - DMA
     - IR-FTIR
     - Granulometry
+  - category: Polymers
+    tools:
+    - Polyesters
+    - Polyurethanes
+    - Extrusion
+    - Melt Flow Index
+    - thermosealing (application and characterisation)
   - category: Computer Skills
     tools:
     - Microsoft Office (Word, Powerpoint, Excel)
@@ -73,20 +86,10 @@ skills:
     - Water and solvent based
     - 1k and 2k formulations
     - Gloss and colour
- - category: Cosmetics
+    - Misc. caracterisations (syneresis, gel, sedimentation, flow threshold)
+  - category: Health & Safety
     tools:
-    - Direct and indirect emulsions
-    - Microem
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
-
+    - 5S method (Sort, Set in order, Shine, Sustain, Self-Discipline
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{8-digit key}
