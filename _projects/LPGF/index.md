@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Correlation Between Stability and Rheological Characteristics of Pigment Pastes
-description:  In partnership with Coloris, my team was tasked with determining the correlation between the stability and the rheological rharacteristics of pigment pastes. To do so, 6 formulation were tested at different times and stored in different conditions (cold, ambiant and hot temperatures).
+title: Storage, Stability and Rheological Profiles of Pigment Pastes - Correlation and Prediction Method
+description:  In partnership with Coloris, my team was tasked with determining the correlation between the stability and the rheological rharacteristics of pigment pastes. To do so, predertermined set of characterisations were performed
 skills: 
   - Structural analysis
   - Aerodynamic design
