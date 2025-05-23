@@ -17,12 +17,12 @@ headline: R&D Formulation Chemist
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Hello, and welcome to my portfolio!
 
-  I created this webpage to showcase what I can bring to your company as well as my projects and side projects that make me who I am as a formulation chemist.
-  I am not afraid of going above and beyond what is asked for if it can benefit the project and the team (like creating an online portfolio almost from scratch). My curiosity and perseverance help me dive into projects, understand what is needed and plan what my team and I can do to reach our goal.
+  I created this webpage to showcase what I can bring to your company as well as the projects that make me who I am as a formulation chemist.
+  I am not afraid of going above and beyond what is asked for, if it can benefit the project and the team (like creating an online portfolio almost from scratch). My curiosity and perseverance help me dive into projects, understand what is needed and plan what my team and I can do to reach our goals.
 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Photo CV.jpeg
+profile_image: ./assets/images/profile-image/Photo_CV.jpeg
 
 
 # Link your resume
