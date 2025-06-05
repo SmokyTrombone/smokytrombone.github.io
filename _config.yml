@@ -17,8 +17,9 @@ headline: R&D Formulation Chemist
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Hello, and welcome to my portfolio!
 
-  I created this webpage to showcase what I can bring to your company as well as the projects that make me who I am as a formulation chemist.
+  I created this webpage to showcase what I can bring to your company as a formulation chemist. Please feel free to peruse my projects and initiatives that I have detailed below.
   I am not afraid of going above and beyond what is asked for, if it can benefit the project and the team (like creating an online portfolio almost from scratch). My curiosity and perseverance help me dive into projects, understand what is needed and plan what my team and I can do to reach our goals.
+
 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -73,7 +74,7 @@ skills:
     - Polyurethanes
     - Extrusion
     - Melt Flow Index
-    - thermosealing (application and characterisation)
+    - Thermosealing (application and characterisation)
     - Kinetic studies
   - category: Computer Skills
     tools:
@@ -83,10 +84,18 @@ skills:
     - GANTT Charts
     - Python (numpy, pandas, scikit-learn, RDKit)
     - SQL 
+  - category: Adhesives
+    tools:
+    - Reactive and non-reactive adhesives
+    - 1K and 2K formulations
+    - Adhesive coating formulation, application and characterisation
+    - Bond strength tests
+    - DSC, ATG and DMA Analysis
+# Contact Form Setup. Setup an account and c
   - category: Paints and Pigments
     tools:
     - Water and solvent based
-    - 1k and 2k formulations
+    - 1K and 2K formulations
     - Gloss and colour
     - Misc. caracterisations (syneresis, gel, sedimentation, flow threshold)
   - category: Health & Safety
@@ -94,8 +103,7 @@ skills:
     - 5S method (Sort, Set in order, Shine, Sustain, Self-Discipline)
     - Hazard Analysis Critical Control Point (HACCP)
     - Health and safety analysis of new methods and protocoles
-
-# Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
+opy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{8-digit key}
 
 
