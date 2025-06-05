@@ -1,21 +1,34 @@
 layout: post
 title: Extrudable Polyster Characterisation
-description:  The polyesters studied were destined for the flexible food packaging industry. The aim was to gather information of the product range at different steps of the product’s lifespan such as extrusion, food packaging, in-store shelf life and customer usage.
+description:  <p align="justify">Characterisation of extrudable polyesters for the flexible food packaging industry. The goal was to gain knowledge about the products at different stages of their life cycle. As an R&D technician, I planned and implemented a wide range of tests to characterise the products in different forms such as granules, extruded polymer and coating.<br/>
+This project was done as an apprenticeship within Bostik during my bachelor’s degree (“Licence Professionnelle”) in 2021.</p>
 
-Conducted tests to determine extrusion profiles.
-Conducted sensory analysis tests to improve production process and customer satisfaction. Overcame health and safety concerns for the taste test during the COVID-19 pandemic by creating a temporary protocol and ensuring strict guidelines for the testers as well as the preparation.
-Transverse team work to deliver detailed product analysis in strict timelines.
-Collaboration with overseas colleagues.
-Internal and external reports and presentations.
 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Non Reactive Adhesives
+  - Polyesters Characterisations
+  - Melt Flow Index
+  - Colour and Haze Measurements
+  - Sensory Analysis
+  - Technical Assistance
+  - Collaboration with International Colleagues
+  - DSC, DMA, ATG
+  - Creativity
+  - Adaptability
+  - Autonomy
+  - Scientific Rigor
 
 main-image: /project2.jpg
 ---
+## Project Overview
+-	Determined extrusion profiles with Melt Flow Index (MFI)
+-	Determined ideal sealing times and temperatures with DMA and design of experiments
+-	Seal strength tests
+-	Implemented sensory analysis tests (smell and taste)
+-	Created a protocol in collaboration with US based team for fog measurement
+-	Colour and haze measurements
+-	Implemented tests according to client specifications
+-	Created reports for clients
+
+## Main Takeaways
+Being my first long term professional
