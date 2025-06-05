@@ -1,26 +1,29 @@
 ---
 layout: post
 title: Storage, Stability and Rheological Profiles of Pigment Pastes - Correlation and Prediction Method
-description:  In partnership with Coloris, my team was tasked with determining the correlation between the stability and the rheological rharacteristics of pigment pastes. To do so, predertermined set of characterisations were performed
+description: This project was a turored project done during my "Licence Professionnelle" in Castres. In partnership with Coloris, my team was tasked with determining the correlation between the stability and the rheological rharacteristics of pigment pastes.
+
+
+Researched stability prediction methods linked to rheology. Proposed and implemented granulometry measurements in order to predict sedimentation. Ensured sensory analysis quality by creating and applying clear and precise protocols.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Sensory Analysis
+  - Dynamic Mechanical Analysis
+  - Brookfield
+  - Precise Granulometry 
+  - Stoke's Law
+  - Aging Tests
+  - Procotol Reaction
 
 main-image: /project2.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## Context 
+The paint industry is a very big and varied industry. Paints and pigments surround us in the form of painted walls, coloured cars and even artwork. Aside from paint’s protective coating qualities, their aesthetic quality is one of their most important factors. The ability to quickly and efficiently colour match a sample is crucial for artists, professionals and DIYers alike./n
+Using solid pigments to add colour implies a time consuming and often tricky dispersion step. Pigment pastes are much easier to disperse into a formulation and can increase uniformity between batches as long as the pigment pastes remain stable./n
+The aim of this project was to study the stability of different pigment pastes and determine a corelation between rheological properties and stability.
+## Details 
+
 
 
 ## Embedding images 
