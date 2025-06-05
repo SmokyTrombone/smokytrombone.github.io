@@ -1,3 +1,4 @@
+---
 layout: post
 title: Extrudable Polyster Characterisation
 description:  <p align="justify">Apprenticeship for my Bachelor’s (Licence Professionnelle) done within the Bostik Smart Technology Centre as part of the Extrudable Solutions team: characterisation of extrudable polyesters for the flexible food packaging industry. </p>
@@ -36,3 +37,4 @@ main-image: /project2.jpg
 <p align="justify">As my first long term professional experience, this opportunity had me face a good number of challenges, both technical and human.<br/>
 My curiosity and out of the box thinking often helped me go above and beyond what was expected of me. My organisation skills and my scientific rigor were also put to the test, especially when having to deal with planning months in advance due to academic absences.<br/>
 Overall, my team and my manager helped me grow as a technician. My work and achievements left me wanting more. It was without hesitation that I continued onto my master’s degree, and with great pleasure that I continued working for Bostik during my course for the next two years.<br/>
+---
