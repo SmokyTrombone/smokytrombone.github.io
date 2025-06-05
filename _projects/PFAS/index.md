@@ -30,7 +30,7 @@ I decided to divide the company into three distinct teams as detailed below. The
 •	Reading and providing a summary of new and pending regulations to the company
 •	Defining PFAS and ensuring that none are present in the formulation
 •	Creating HSE protocols and safety data sheets for the clients.
-###The Engineers
+### The Engineers
 •	Creating the product as per the Regulations and Technical Sales Team’s information
 •	Finding the molecule to replace the usual PFAS in the formulation
 ## Main Takeaways
