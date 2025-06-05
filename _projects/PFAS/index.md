@@ -16,7 +16,7 @@ main-image: /team.png
 
 ---
 ## Context
-<p align="justify">Rules and regulations are forever evolving. Keeping a companies product range up to code can be challenging, especially when a key ingredient is on the verge of being banned.<br/>
+<p align="justify">Rules and regulations are forever evolving. Keeping a company's product range up to code can be challenging, especially when a key ingredient is on the verge of being banned.<br/>
 In the light of the looming ban on PFAS in a variety of products, my team was tasked with creating a new industrial cleaner that was solvent based without any PFAS. I was voted CEO of our fictitious company, MissClean, and was in charge of leading the team.</p>
 
 ## Company Strategy
@@ -35,6 +35,6 @@ In the light of the looming ban on PFAS in a variety of products, my team was ta
 - Finding the molecule to replace the usual PFAS in the formulation
 ## Main Takeaways
 <p align="justify">The main challenge of this project was the timing. We had one month that was already filled with classes and other projects to understand budding regulations and our market, as well as create the formula and sales presentation. I was CEO and part of the Regulations Team.<br/>
-As CEO I didn’t sit back and wait for my team to ask me for help. I took a proactive approach, checking in frequently, ready to lend a hand when needed./n
+As CEO I didn’t sit back and wait for my team to ask me for help. I took a proactive approach, checking in frequently, ready to lend a hand when needed.<br/>
 The weekly presentations helped people feel proud of their work and prevented certain obstacles blocking one aspect of the project.<br/>
 We completed our goal in the time given and were awarded an exceptional marl as well as a real sense of belonging within our team.</p>
