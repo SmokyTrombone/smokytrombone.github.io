@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extrudable Polyster Characterisation
-description:  <p align="justify">Apprenticeship for my Bachelor’s (Licence Professionnelle) done within the Bostik Smart Technology Centre as part of the Extrudable Solutions team: characterisation of extrudable polyesters for the flexible food packaging industry. </p>
+description: Apprenticeship for my Bachelor’s (Licence Professionnelle) done within the Bostik Smart Technology Centre as part of the Extrudable Solutions team: characterisation of extrudable polyesters for the flexible food packaging industry.
 
 
 skills: 
