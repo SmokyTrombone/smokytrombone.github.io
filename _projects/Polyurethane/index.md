@@ -1,17 +1,23 @@
 ---
 layout: post
 title: Applying AI to Polyurethane Adhesives
-description: I had an interesting position within this project with my degree in formulation and data mining. I spent my first year gathering data on the polyurethane adhesives, the raw materials, the films and the complexes. This crucial step was supplemented by the design of new protocols and the discussion of hypotheses to test with the in-house AI. During the second year, I decided to push my limits and have a more hands on approach on the data science side of things. I used Python libraries such as pandas, scikit-learn and RDKit to gain insight into the data that wasn’t visible with other methods such as spreadsheets.
-
+description: Master's apprenticeship done in the Bostik Smart Technology within the Polyurethane Flexible Lamination team
 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Reactive Adhesives (2K)
+  - Synthesis, formulation, application and characterisation of adhesives
+  - Synthesis and characterisation of polyols and isocyanates
+  - Packaging characterisation
+  - Coating application with Meyer bar
+  - Traction tests
+  - Data science with python (jupyter notebook, pandas, scikit-learn, RDKit)
+  - Microsoft Office (Excel, Word, Powerpoint, Teams)
+  - Versatility
+  - Taking intiative
+  - Perserverance
+  - Curiosity
+  - Team work
 
 main-image: /project2.jpg
 ---
+## Context
