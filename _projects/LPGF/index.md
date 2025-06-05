@@ -3,8 +3,6 @@ layout: post
 title: Storage, Stability and Rheological Profiles of Pigment Pastes - Correlation and Prediction Method
 description: This project was a turored project done during my "Licence Professionnelle" in Castres. In partnership with Coloris, my team was tasked with determining the correlation between the stability and the rheological rharacteristics of pigment pastes.
 
-
-Researched stability prediction methods linked to rheology. Proposed and implemented granulometry measurements in order to predict sedimentation. Ensured sensory analysis quality by creating and applying clear and precise protocols.
 skills: 
   - Sensory Analysis
   - Dynamic Mechanical Analysis
