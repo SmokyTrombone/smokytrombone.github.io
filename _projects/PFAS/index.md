@@ -22,17 +22,17 @@ In the light of the looming ban on PFAS in a variety of products, my team was ta
 ## Company Strategy
 <p align="justify">I decided to divide the company into three distinct teams as detailed below. The overall goal being to ensure that our product was ready within our tight deadline (1 month). I proposed weekly meetings where each team would present the different challenges they had faced, as well as their achieved goals.</p>
 ### The Technical Sales Representatives
-•	Knowing client specifications
-•	Knowing what apparatus the clients have
-•	Details about prices 
-•	Creating the sales presentation (end goal)
+- Knowing client specifications
+- Knowing what apparatus the clients have
+- Details about prices 
+- Creating the sales presentation (end goal)
 ### The Regulations Team
-•	Reading and providing a summary of new and pending regulations to the company
-•	Defining PFAS and ensuring that none are present in the formulation
-•	Creating HSE protocols and safety data sheets for the clients.
+- Reading and providing a summary of new and pending regulations to the company
+- Defining PFAS and ensuring that none are present in the formulation
+- Creating HSE protocols and safety data sheets for the clients.
 ### The Engineers
-•	Creating the product as per the Regulations and Technical Sales Team’s information
-•	Finding the molecule to replace the usual PFAS in the formulation
+- Creating the product as per the Regulations and Technical Sales Team’s information
+- Finding the molecule to replace the usual PFAS in the formulation
 ## Main Takeaways
 <p align="justify">The main challenge of this project was the timing. We had one month that was already filled with classes and other projects to understand budding regulations and our market, as well as create the formula and sales presentation. I was CEO and part of the Regulations Team.<br/>
 As CEO I didn’t sit back and wait for my team to ask me for help. I took a proactive approach, checking in frequently, ready to lend a hand when needed./n
