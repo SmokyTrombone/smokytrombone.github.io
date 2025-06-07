@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Applying AI to Polyurethane Adhesives for the Flexible Food Packaging Industry
-description: <p align="justify">Apprenticeship for my Master’s done within the Bostik Smart Technology Centre as part of the Polyurethane Flexible Lamination team: Applying AI to polyurethanes adhesives used for the flexible food packaging industry. </p>
+description: <p align="justify">Apprenticeship for my Master’s done within the Bostik Smart Technology Centre as part of the Polyurethane Flexible Lamination team - Applying AI to polyurethanes adhesives used for the flexible food packaging industry. </p>
 
 skills: 
   - Reactive Adhesives (2K)
