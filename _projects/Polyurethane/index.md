@@ -38,7 +38,7 @@ A big part of the project was learning new things about the products. I found it
 To counter this, I used my “free time” in between tests to read the on-site information about the products as well as research what universities and other companies are exploring around the same subject. My perseverance not only swiftly brought me up to the team’s speed, but also gave me the insight and knowledge to propose multiple hypotheses that were later tested.</p>
 
 ## Fast Mechanical Recycling Test
-<p align="justify">During my apprenticeship, I participated in the development of a lab-scale recycling method to test a packaging recyclability. This project was an excellent opportunity to put my creativity and versatility to the test. I proposed 5 innovative recycling methods, graded them according to various industry standards and ensured that health and safety protocol was followed by creating a temporary occupational risks assessment document (DUER in French).<br/>
+<p align="justify">During my apprenticeship, I participated in the development of a lab-scale recycling method to evaluate a packaging's recyclability. This project was an excellent opportunity to put my creativity and versatility to the test. I proposed 5 innovative recycling methods, graded them according to various industry standards and ensured that health and safety protocol was followed by creating a temporary occupational risks assessment document (DUER in French).<br/>
 A particularly difficult part of this project was observing elements under the microscope. I was quick to bring my academic knowledge into practice by bringing different microscope techniques such as using dark field in order to see faults in the films easier.<br/>
 
 
