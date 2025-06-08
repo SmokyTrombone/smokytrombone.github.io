@@ -37,6 +37,11 @@ Finding Hypotheses
 A big part of the project was learning new things about the products. I found it difficult to find new and exciting hypotheses during my first few months on the team. Indeed, I was more focused on incorporating the current knowledge and didn’t have enough insight to take a step back and find new theories.<br/>
 To counter this, I used my “free time” in between tests to read the on-site information about the products as well as research what universities and other companies are exploring around the same subject. My perseverance not only swiftly brought me up to the team’s speed, but also gave me the insight and knowledge to propose multiple hypotheses that were later tested.</p>
 
+## Fast Mechanical Recycling Test
+<p align="justify">During my apprenticeship, I participated in the development of a lab-scale recycling method to test a packaging recyclability. This project was an excellent opportunity to put my creativity and versatility to the test. I proposed 5 innovative recycling methods, graded them according to various industry standards and ensured that health and safety protocol was followed by creating a temporary occupational risks assessment document (DUER in French).<br/>
+A particularly difficult part of this project was observing elements under the microscope. I was quick to bring my academic knowledge into practice by bringing different microscope techniques such as using dark field in order to see faults in the films easier.<br/>
+
+
 ### A New Approach to Data Processing
 <p align="justify">In volunteering to work on the data science side of things, I was quickly facing a new set of challenges that I had never faced before. I was no longer working with spreadsheets, but large databases. I was also confronted to new Python libraries and elements that I had never worked with before.<br/>
 Data science being a relatively new domain to me, I asked my supervisors for guidance in what skills and information I needed to be a productive part of the team. With a plan, I set out to learn what I needed. I also took the initiative of writing Python tutorials to help other apprentices or team members onboard this part of the project quicker.<br/>
