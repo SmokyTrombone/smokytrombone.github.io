@@ -24,6 +24,14 @@ main-image: /project2.jpg
 <p align="justify"> The flexible food packaging industry is very complex. A simple packet of crisps is made of multiple layers that must be bonded together. And each layer of adhesive can be unique within the packaging. To sum up, the fact that flexible packaging is getting more complex and robust means that the demand for ever more precise and innovative adhesives is growing. To answer that demand, companies such as Bostik have a plethora of polyurethane adhesives to propose.<br/>
 In order to rationalise their product range and get a head start on future formulations, I participated in the application of AI to polyurethane adhesives for the flexible food packaging industry. I was initially only going to work on the chemistry side of the project, however I quickly asked to participate in the data science side to get a more global view of the project and hone my coding and data processing skills.</p>
 
+## Task Summary
+-	Formulation, application and characterisation of polyurethane adhesives
+-	Collaboration with transversal teams (analysis, data science, R&D, technical assistance)
+-	Protocol creation and writing
+-	Database design
+-	Feature engineering
+-	Chemical reaction modelling with SMILES and SMARTS
+
 ## Key Challenges
 ### Complex Quantities
 <p align="justify">I was applying a large number of tests to a considerable amount of products (adhesives, raw materials, packaging, etc.). The amount and complexity of these tests put my rigor and organisational skills to the test, especially when taking into account the fact that I was at Bostik for only one month at a time due to my university schedule.<br/>
